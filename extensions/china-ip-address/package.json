@@ -21,7 +21,7 @@
     "@raycast/api": "^1.57.1",
     "@types/ip": "^1.1.0",
     "axios": "^1.5.0",
-    "ip": "^1.1.8"
+    "ip": "^1.1.9"
   },
   "devDependencies": {
     "@raycast/eslint-config": "1.0.5",
