@@ -46,7 +46,7 @@
     "jimp": "^0.22.7",
     "jsqr": "^1.4.0",
     "otpauth": "^9.1.1",
-    "protobufjs": "^7.2.3"
+    "protobufjs": "^7.2.4"
   },
   "devDependencies": {
     "@raycast/eslint-config": "1.0.5",
