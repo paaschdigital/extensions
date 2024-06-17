@@ -52,7 +52,7 @@
   ],
   "dependencies": {
     "@raycast/api": "^1.36.1",
-    "obs-websocket-js": "^5.0.0-beta.1",
+    "obs-websocket-js": "^5.0.0",
     "swr": "^1.3.0"
   },
   "devDependencies": {
