@@ -280,7 +280,7 @@
   ],
   "dependencies": {
     "@raycast/api": "^1.44.0",
-    "ali-oss": "^6.17.1",
+    "ali-oss": "^6.18.1",
     "got": "^12.3.0",
     "raycast-toolkit": "^1.0.6"
   },
