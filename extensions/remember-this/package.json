@@ -153,8 +153,8 @@
     "axios": "^1.4.0",
     "node-notifier": "^10.0.1",
     "node-telegram-bot-api": "^0.61.0",
-    "open": "^9.1.0",
-    "run-applescript": "^6.1.0",
+    "open": "^10.0.0",
+    "run-applescript": "^7.0.0",
     "ts-node": "^10.9.1"
   },
   "devDependencies": {
