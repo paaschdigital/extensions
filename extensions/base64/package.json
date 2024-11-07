@@ -47,7 +47,7 @@
   "dependencies": {
     "@raycast/api": "1.44.0",
     "js-base64": "3.7.2",
-    "run-applescript": "6.0.0"
+    "run-applescript": "7.0.0"
   },
   "devDependencies": {
     "@types/node": "16.11.7",
