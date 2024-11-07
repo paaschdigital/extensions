@@ -799,7 +799,7 @@
     "@raycast/utils": "^1.4.16",
     "dayjs": "^1.11.7",
     "parse-ms": "^3.0.0",
-    "run-applescript": "^6.1.0"
+    "run-applescript": "^7.0.0"
   },
   "devDependencies": {
     "@types/prettier": "^2.7.2",
