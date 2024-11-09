@@ -74,7 +74,7 @@
     "@raycast/api": "^1.39.1",
     "@raycast/utils": "^1.4.9",
     "axios": "^0.27.2",
-    "run-applescript": "^6.0.0"
+    "run-applescript": "^7.0.0"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.0.0",
