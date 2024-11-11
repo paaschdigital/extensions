@@ -328,7 +328,7 @@
     "fs-extra": "^10.1.0",
     "node-fetch": "^3.3.0",
     "pexels": "^1.4.0",
-    "run-applescript": "^6.0.0"
+    "run-applescript": "^7.0.0"
   },
   "devDependencies": {
     "@types/fs-extra": "^9.0.13",
