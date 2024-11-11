@@ -82,7 +82,7 @@
     "moment": "^2.29.3",
     "node-fetch": "^3.0.0",
     "raycast-toolkit": "^1.0.3",
-    "run-applescript": "^6.0.0"
+    "run-applescript": "^7.0.0"
   },
   "devDependencies": {
     "@raycast/eslint-config": "^1.0.5",
