@@ -86,7 +86,7 @@
     "@spotxyz/macos-audio-devices": "1.5.0",
     "execa": "^6.0.0",
     "prettier": "^3.2.5",
-    "run-applescript": "^6.0.0"
+    "run-applescript": "^7.0.0"
   },
   "devDependencies": {
     "@types/node": "^20.8.10",
