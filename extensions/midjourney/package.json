@@ -61,7 +61,7 @@
     "@raycast/utils": "^1.10.0",
     "cross-fetch": "^4.0.0",
     "midjourney": "^4.3.12",
-    "run-applescript": "^6.1.0"
+    "run-applescript": "^7.0.0"
   },
   "devDependencies": {
     "@raycast/eslint-config": "1.0.5",
