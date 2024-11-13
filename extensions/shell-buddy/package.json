@@ -41,7 +41,7 @@
     "@raycast/api": "^1.39.3",
     "node-fetch": "^3.2.10",
     "raycast-toolkit": "^1.0.6",
-    "run-applescript": "^6.0.0",
+    "run-applescript": "^7.0.0",
     "shell-env": "^4.0.1"
   },
   "devDependencies": {
