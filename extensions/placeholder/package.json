@@ -170,7 +170,7 @@
     "@raycast/api": "^1.44.0",
     "fs-extra": "^10.1.0",
     "picsum-photos": "^3.0.10",
-    "run-applescript": "^6.0.0",
+    "run-applescript": "^7.0.0",
     "axios": "^0.27.2"
   },
   "devDependencies": {
