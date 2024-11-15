@@ -446,7 +446,7 @@
     "@raycast/api": "^1.48.8",
     "@raycast/utils": "^1.4.18",
     "mathjs": "^11.8.2",
-    "run-applescript": "^6.1.0",
+    "run-applescript": "^7.0.0",
     "svgo": "^3.0.2",
     "tar": "^6.2.0"
   },
