@@ -79,7 +79,7 @@
     "color-convert": "^2.0.1",
     "is-valid-css-color": "^2.0.3",
     "javascript-time-ago": "^2.3.13",
-    "run-applescript": "^6.0.0"
+    "run-applescript": "^7.0.0"
   },
   "devDependencies": {
     "@types/color-convert": "^2.0.0",
