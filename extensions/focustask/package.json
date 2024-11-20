@@ -53,7 +53,7 @@
     "heroicons": "^2.0.4",
     "lodash": "^4.17.21",
     "node-fetch": "^3.2.10",
-    "tailwindcss": "^3.1.8"
+    "tailwindcss": "^3.4.15"
   },
   "devDependencies": {
     "@types/lodash": "^4.14.182",
