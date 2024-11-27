@@ -103,7 +103,7 @@
   "dependencies": {
     "@raycast/api": "^1.52.1",
     "@raycast/utils": "^1.8.0",
-    "axios": "^1.4.0",
+    "axios": "^1.7.8",
     "date-fns": "^2.30.0"
   },
   "devDependencies": {
