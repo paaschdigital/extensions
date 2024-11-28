@@ -104,7 +104,7 @@
   "dependencies": {
     "@raycast/api": "^1.68.1",
     "@raycast/utils": "^1.10.0",
-    "@supabase/supabase-js": "^2.39.2",
+    "@supabase/supabase-js": "^2.46.2",
     "node-fetch": "^3.3.2",
     "proper-url-join": "^2.1.1",
     "run-applescript": "^6.1.0",
