@@ -97,7 +97,7 @@
     "@raycast/utils": "^1.15.0",
     "date-fns": "^3.6.0",
     "node-fetch": "^3.3.2",
-    "openai": "^3.2.1",
+    "openai": "^4.0.0",
     "youtube-transcript": "^1.2.1"
   },
   "devDependencies": {
