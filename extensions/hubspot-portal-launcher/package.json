@@ -39,7 +39,7 @@
   "dependencies": {
     "@raycast/api": "^1.50.0",
     "@types/nanoid": "^3.0.0",
-    "nanoid": "^4.0.2"
+    "nanoid": "^5.0.9"
   },
   "devDependencies": {
     "@raycast/eslint-config": "^1.0.5",
