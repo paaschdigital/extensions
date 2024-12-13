@@ -19,7 +19,7 @@
   ],
   "dependencies": {
     "@raycast/api": "^1.36.0",
-    "nanoid": "^4.0.0"
+    "nanoid": "^5.0.9"
   },
   "devDependencies": {
     "@types/node": "~16.10.0",
