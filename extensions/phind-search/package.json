@@ -39,7 +39,7 @@
     "@raycast/api": "^1.58.1",
     "@raycast/utils": "^1.10.0",
     "iconv-lite": "^0.6.3",
-    "nanoid": "^4.0.1",
+    "nanoid": "^5.0.9",
     "node-fetch": "^3.3.0"
   },
   "devDependencies": {
