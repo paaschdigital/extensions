@@ -22,7 +22,7 @@
   ],
   "dependencies": {
     "@jeromefitz/conventional-gitmoji": "^1.0.0",
-    "@raycast/api": "^1.25.0"
+    "@raycast/api": "^1.25.1"
   },
   "devDependencies": {
     "@types/node": "~16.10.0",
