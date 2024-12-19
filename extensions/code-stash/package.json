@@ -25,7 +25,7 @@
     "@raycast/api": "^1.42.0",
     "archiver": "^5.3.1",
     "lang-detector": "^1.0.6",
-    "nanoid": "^3.3.4"
+    "nanoid": "^3.3.8"
   },
   "devDependencies": {
     "@types/node": "^18.8.3",
