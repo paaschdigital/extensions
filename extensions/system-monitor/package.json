@@ -28,7 +28,7 @@
     "@raycast/utils": "^1.13.6",
     "os-utils": "0.0.14",
     "plist": "^3.1.0",
-    "systeminformation": "^5.22.7",
+    "systeminformation": "^5.23.8",
     "usehooks-ts": "^3.1.0"
   },
   "devDependencies": {
