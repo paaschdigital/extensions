@@ -154,7 +154,7 @@
   "dependencies": {
     "@raycast/api": "^1.59.0",
     "@raycast/utils": "^1.4.9",
-    "fast-glob": "^3.2.12"
+    "fast-glob": "^3.3.3"
   },
   "devDependencies": {
     "@raycast/eslint-config": "^1.0.6",
