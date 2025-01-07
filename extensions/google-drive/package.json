@@ -115,7 +115,7 @@
   ],
   "dependencies": {
     "@raycast/api": "^1.37.0",
-    "fast-glob": "^3.2.11",
+    "fast-glob": "^3.3.3",
     "fzf": "^0.5.1",
     "sql.js": "^1.6.2"
   },
